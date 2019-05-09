@@ -38,7 +38,6 @@ int main(int argc, char * argv[])
  
 	// Set the current drawing color to green. 
 	gfx_color(100,250,167); 
-	// draws the design using te function 
 	drawCircle(XC,YC,radius); 
 	drawcirclething(XC,YC,radius); 
 	//asks user to continue or not 
